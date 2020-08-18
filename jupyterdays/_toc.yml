@@ -9,5 +9,33 @@
 - file: schedule/speakers.md
 
 - header: Day 1 Sessions
-- file: sessions/beuzen/jupyter_book_tutorial.ipynb
+- file: sessions/ostblom/jupyterlab-intro.ipynb
+  title: Introduction to JupyterLab
+- file: sessions/timbers/sharing-materials-with-git/sharing-materials-with-git
+  title: Sharing your teaching materials using Git & GitHub
+- file: sessions/beuzen/jupyter_book_tutorial
   title: Jupyter Book
+- file: sessions/walls/a_tour_of_python_packages_for_scientific_computing.ipynb
+  title: Python packages for scientific computing
+
+- header: Day 2 Sessions
+- file: sessions/timbers/canvas-speedgrader-jupyter/canvas-speedgrader-jupyter
+  title: Intro to using Canvas Speedgrader with Jupyter
+- file: sessions/lee/teaching_online_jupyter_days
+  title: Teaching in an Online Setting
+- file: sessions/gelbart/ds-pedagogies
+  title: Effective pedagogies for teaching data science
+
+- header: Day 3 Sessions
+- file: sessions/wu/Jupyter_and_QuantEcon.ipynb
+  title: Jupyter and QuantEcon
+- file: sessions/heagy/widgets-and-dashboards.ipynb
+  title: Interactive exploration with Jupyter widgets and dashboards
+- file: sessions/boyce/interactive_online_course
+  title: Building an Interactive Online Course
+- file: sessions/kolhatkar/language-models-with-Jupyter
+  title: Computational linguistics with Jupyter
+
+- header: Code of Conduct
+- file: CODE_OF_CONDUCT.md
+  title: Code of Conduct for Jupyterdays
